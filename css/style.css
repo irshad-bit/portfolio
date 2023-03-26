@@ -27,4 +27,5 @@ html,body{
     display: grid;
     place-items: center;
     margin: auto 0 0 auto; 
+    width:100vw;
 }
